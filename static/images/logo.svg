@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Dress Collection">
+  <defs>
+    <linearGradient id="gold" x1="20" y1="8" x2="108" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F6E7A3"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#A67C00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="62" fill="#1F3A3D"/>
+  <circle cx="64" cy="64" r="55" fill="none" stroke="url(#gold)" stroke-width="3.2"/>
+  <path d="M47 32 Q64 24 81 32" fill="none" stroke="url(#gold)" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M47 32 L54 54" fill="none" stroke="url(#gold)" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M81 32 L74 54" fill="none" stroke="url(#gold)" stroke-width="3.6" stroke-linecap="round"/>
+  <path fill="url(#gold)" d="M54 53h20l-4 16H58z"/>
+  <path fill="url(#gold)" d="M58 68h12l22 38H36z"/>
+</svg>
