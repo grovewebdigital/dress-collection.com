@@ -134,6 +134,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✨ Credits
 
-Made with ❤️ by Md Sydul Amin
+Made with ❤️ by Grove Web Digital
 Powered by Django & Jazzmin
 

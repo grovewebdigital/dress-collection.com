@@ -174,7 +174,7 @@ JAZZMIN_SETTINGS = {
     "site_logo": "images/logo.png",
     "site_icon": "images/logo.png",
     "welcome_sign": "Welcome to Dress Collection Admin",
-    "copyright": "Dress Collection",
+    "copyright": "Grove Web Digital",
 
     # "search_model": ["auth.User", "yourapp.YourModel"],
 
